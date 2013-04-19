@@ -1,0 +1,13 @@
+Uses the MSN Messenger Network
+
+- supports login
+- status change
+- contact management
+- blocking/unblocking contacts
+- sorting
+- sending files (to multiple contacts)
+- chatting
+- logging (keep track of everything happening)
+- automated messaging when people contact you
+- easily program a xdcc server / file server 
+
